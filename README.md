@@ -27,7 +27,7 @@ Interface web de l'application Eventify, une plateforme de gestion et découvert
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/ton-username/eventify-frontend.git
+git clone https://github.com/Darko-05/eventify-frontend.git
 cd eventify-frontend
 ```
 
